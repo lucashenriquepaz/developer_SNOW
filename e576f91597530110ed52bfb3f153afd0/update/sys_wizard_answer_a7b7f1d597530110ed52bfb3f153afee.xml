@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Dev</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Dev</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">781c35c4752001100acb0f6766fcbfb4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-05 15:02:41</sys_created_on>
+        <sys_id>a7b7f1d597530110ed52bfb3f153afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev</sys_name>
+        <sys_package display_value="Developer Training App" source="x_815336_developer">e576f91597530110ed52bfb3f153afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Training App">e576f91597530110ed52bfb3f153afd0</sys_scope>
+        <sys_update_name>sys_wizard_answer_a7b7f1d597530110ed52bfb3f153afee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-05 15:02:41</sys_updated_on>
+        <table/>
+        <target_url>x_815336_developer_dev.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
