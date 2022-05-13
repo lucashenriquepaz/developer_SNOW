@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Dev onLoad Example</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   alert("Thank you for loading the Dev form. Please, click 'Ok' to continue your work!");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 18:46:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3e0d76a97170110ed52bfb3f153af18</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Dev onLoad Example</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Developer Training App" source="x_815336_developer">e576f91597530110ed52bfb3f153afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Training App">e576f91597530110ed52bfb3f153afd0</sys_scope>
+        <sys_update_name>sys_script_client_f3e0d76a97170110ed52bfb3f153af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 18:57:50</sys_updated_on>
+        <table>x_815336_developer_dev</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
